@@ -1,4 +1,3 @@
-````md
 # Create Your First Copilot Chat Agent
 
 ## Overview
@@ -423,15 +422,3 @@ These settings make it easier to follow and understand the agent's conversation 
 - Testing should begin early to understand the agent's behaviour.
 
 ---
-
-## Summary
-
-```text
-Create the agent.
-Give it a name and icon.
-Review its built-in topics.
-Enable the activity map.
-Test greetings and topic transitions.
-Add knowledge for organization-specific answers.
-```
-````
