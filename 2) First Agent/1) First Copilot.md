@@ -409,16 +409,3 @@ These settings make it easier to follow and understand the agent's conversation 
 
 ---
 
-## Key Takeaways
-
-- Microsoft Copilot Studio is available at `copilotstudio.microsoft.com`.
-- The correct environment and license should be selected before creating an agent.
-- Natural-language instructions become part of the agent's editable logic.
-- A newly created agent already contains built-in topics.
-- Each topic can contain triggers, responses, and conversation actions.
-- The activity map shows how the conversation moves through topics.
-- Knowledge sources are required for organization-specific answers.
-- A basic agent can respond to greetings and general questions.
-- Testing should begin early to understand the agent's behaviour.
-
----
