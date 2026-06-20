@@ -130,10 +130,6 @@ Responses are usually generated within a topic and may use information retrieved
 
 > Go to the IT portal and submit a password reset request.
 
-### Key Point
-
-Responses communicate the final answer or guidance to the user.
-
 ---
 
 ## How the Four Building Blocks Work Together
